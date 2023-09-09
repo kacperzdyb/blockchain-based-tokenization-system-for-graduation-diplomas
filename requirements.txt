@@ -1,0 +1,5 @@
+web3
+hashlib
+json
+azure-storage-blob
+py-solc-x

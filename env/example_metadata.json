@@ -1,0 +1,21 @@
+{
+    "name": "Bachelor's Degree in Computer Science",
+    "description": "This NFT represents a Bachelor's Degree in Computer Science awarded by the Warsaw University of Technology.",
+    "holder": "Jane Doe",
+    "pdf_url": "<URL to pdf version of the diploma>",
+    "hash_func": "sha256",
+    "attributes": [
+        {
+            "trait_type": "Degree Type",
+            "value": "Bachelor"
+        },
+        {
+            "trait_type": "Major",
+            "value": "Computer Science"
+        },
+        {
+            "trait_type": "University",
+            "value": "Warsaw University of Technology"
+        }
+    ]
+}
